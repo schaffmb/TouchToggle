@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For TouchToggle
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TouchToggle	    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin           KEYWORD2
+run             KEYWORD2
+setHandler      KEYWORD2
+getID           KEYWORD2
+setID           KEYWORD2
+getPin          KEYWORD2
+setPin          KEYWORD2
+getSensor       KEYWORD2
+getStatus       KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+EX_BEGIN        LITERAL1
+EX_TOGGLE       LITERAL1
+EX_SENSITIVITY  LITERAL1
+EX_NORMAL       LITERAL1
+EX_REVERSED     LITERAL1
