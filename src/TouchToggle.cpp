@@ -45,7 +45,7 @@ TouchToggle::TouchToggle(void(*function)(uint8_t, uint16_t, uint8_t, uint8_t))
 //*****************************************************************************
 //*
 //* Brief:
-//*   ???.
+//*   Configure and start the object.
 //*
 //* Parameters:
 //*   status - Beginning LED status indicator.
@@ -83,7 +83,7 @@ bool TouchToggle::begin(uint8_t status, uint8_t pin)
 //*****************************************************************************
 //*
 //* Brief:
-//*   ???.
+//*   Execute a 'time slice' of the object.
 //*
 //* Parameters:
 //*   None.
