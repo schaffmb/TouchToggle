@@ -1,4 +1,4 @@
-# `TouchToggle` ![exarVersion](https://img.shields.io/badge/Version-0.0.1-green.svg?style=plastic) [![arduino-library-badge](https://www.ardu-badge.com/badge/TouchToggle.svg?)](https://www.ardu-badge.com/TouchToggle)
+# `TouchToggle` ![exarVersion](https://img.shields.io/badge/Version-0.0.2-green.svg?style=plastic) [![arduino-library-badge](https://www.ardu-badge.com/badge/TouchToggle.svg?)](https://www.ardu-badge.com/TouchToggle)
 Library for the Berrett Hill Shop Touch Toggle
 
 ## Licensing:
