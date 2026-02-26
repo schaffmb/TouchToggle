@@ -1,5 +1,5 @@
 # `TouchToggle` ![exarVersion](https://img.shields.io/badge/Version-0.0.2-green.svg?style=plastic) [![arduino-library-badge](https://www.ardu-badge.com/badge/TouchToggle.svg?)](https://www.ardu-badge.com/TouchToggle)
-Library for the Berrett Hill Shop Touch Toggle
+Library for the Berrett Hill Shop Touch Toggle<br /><br />
 
 ## Licensing:
 ![GPLv3Logo](https://www.gnu.org/graphics/gplv3-127x51.png)
@@ -12,10 +12,10 @@ GNU Lesser General Public License (LGPL), MIT, modified BSD, Apache, etc..
 
 GPL licensing information can found here: https://www.gnu.org/licenses/
 
-For full details on the licensing of TouchToggle and its components, see the included licensing file.
+For full details on the licensing of TouchToggle and its components, see the included licensing file.<br /><br />
 
 ## Overview:
-The library implements the protocol for interfacing the Berrett Hill Shop Touch Toggle to the Arduino platform.
+This library implements the protocol for interfacing the Berrett Hill Shop Touch Toggle to the Arduino platform.<br /><br />
 
 ## Library API:
 ```c++
