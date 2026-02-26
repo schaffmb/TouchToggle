@@ -15,8 +15,7 @@ GPL licensing information can found here: https://www.gnu.org/licenses/
 For full details on the licensing of TouchToggle and its components, see the included licensing file.
 
 ## Overview:
-TBD
-
+The library implements the protocol for interfacing the Berrett Hill Shop Touch Toggle to the Arduino platform.
 
 ## Library API:
 ```c++
