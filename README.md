@@ -1,7 +1,7 @@
 # `TouchToggle` ![exarVersion](https://img.shields.io/badge/Version-0.0.1-green.svg?style=plastic) [![arduino-library-badge](https://www.ardu-badge.com/badge/TouchToggle.svg?)](https://www.ardu-badge.com/TouchToggle)
 Library for the Berrett Hill Shop Touch Toggle
 
-Licensing
+## Licensing:
 ![GPLv3Logo](https://www.gnu.org/graphics/gplv3-127x51.png)
 
 TouchToggle is an open source project for open source projects. Those wishing to
