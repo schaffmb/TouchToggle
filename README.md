@@ -4,11 +4,7 @@ Library for the Berrett Hill Shop Touch Toggle<br /><br />
 ## Licensing:
 ![GPLv3Logo](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-TouchToggle is an open source project for open source projects. Those wishing to
-create closed projects should seek an alternate solution.
-TouchToggle is licensed under the terms of the GNU General Public License v3.0
-as opposed to the more liberal licensing terms of the
-GNU Lesser General Public License (LGPL), MIT, modified BSD, Apache, etc..
+TouchToggle is an open source project for open source projects. Those wishing to create closed projects should seek an alternate solution. TouchToggle is licensed under the terms of the GNU General Public License v3.0 as opposed to the more liberal licensing terms of the GNU Lesser General Public License (LGPL), MIT, modified BSD, Apache, etc..
 
 GPL licensing information can found here: https://www.gnu.org/licenses/
 
